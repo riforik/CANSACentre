@@ -42,9 +42,9 @@ Use a file extractor and move the CANSA Centre theme folder into the wp-content/
 #### Required Plugins
 * Included
 	* [ Advanced Custom Fields](https://www.advancedcustomfields.com/) - Built using ACF as a meta-data manager.
+	* [Font Awsome](https://fontawesome.com/) - The web's most popular icon set and toolkit.
 * Excluded
 	* [Contact Form 7](https://contactform7.com/) - Just another contact form plugin. Simple but flexible.
-	* [Font Awsome](https://fontawesome.com/) - The web's most popular icon set and toolkit.
 	* [Raw HTML](https://w-shadow.com/blog/2007/12/13/raw-html-in-wordpress/) - Lets you disable automatic formatting.
 	* [Redirection](https://redirection.me/) - Create, manage, monitor 301 redirects.
 	* [TLP Team](http://demo.radiustheme.com/wordpress/plugins/tlp-team/) - Display your team members in different layout like Grids and Isotope.
